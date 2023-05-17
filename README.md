@@ -40,3 +40,5 @@ ch = int(input('Введите число: '))
 r = math.cos(ch)
 
 print('Ответ:', r)
+
+# u need solution
