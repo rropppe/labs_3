@@ -41,4 +41,4 @@ r = math.cos(ch)
 
 print('Ответ:', r)
 
-# u need solution
+# u DONT need a calc use ur brain
